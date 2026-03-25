@@ -55,7 +55,7 @@ The automation follows a 10-Phase logic flow:
 
 ### 2. Clone & Install
 ```bash
-git clone [https://github.com/vikrant-project/AWS-Signup-Automator-Pro.git](https://github.com/vikrant-project/AWS-Signup-Automator-Pro.git)
+git clone https://github.com/vikrant-project/AWS-Signup-Automator-Pro
 cd AWS-Signup-Automator-Pro
 pip install undetected-chromedriver selenium
 ```
